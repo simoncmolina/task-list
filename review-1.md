@@ -11,5 +11,7 @@ retroalimentación frente a los problemas diarios de la compañía*
 - Agregar y editar las tareas permitiendo modificar descripción y notas adicionales
 - Realizar informes elaborados con Big Data que permite reaccionar frente a casos más críticos
 
+**Los usuarios usarían la aplicación porque les permitiría llegar a sus objetivos con simplicidad y tener máyor control de sus actividades**
+
 
 
